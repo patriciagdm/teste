@@ -6,3 +6,4 @@ teste commit master
 branch2
 branch2 alteracoesnovo commit master
 commit master pelo github
+commit2 master pelo github
